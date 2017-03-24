@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jul 13 13:55:51 AST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0155-e3e6-06a0-00002bf8b808 
+on database directory /Users/wail/zeppelin/asterixdb/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@593ccc16 
+Loaded from file:/Users/wail/zeppelin/interpreter/spark/dep/zeppelin-spark-dependencies-0.7.0-SNAPSHOT.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b14
+user.dir=/Users/wail/zeppelin/asterixdb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
